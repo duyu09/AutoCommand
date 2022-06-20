@@ -1,0 +1,1 @@
+java -Dfile.encoding=UTF-8 -classpath "%cd%\bin;%cd%\lib\Msc.jar;%cd%\lib\json-jena-1.0.jar" com.iflytek.view.MainView
