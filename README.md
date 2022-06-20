@@ -16,3 +16,17 @@ This project has participated in the 2022 National Computer Design Competition f
 Copyright owner's authorization: The Organization Committee of China University Student Computer Design Competition has the right to use AutoCommand software for non-profit purposes.
 
 著作权所有人授权：2022年中国大学生计算机设计大赛组委会对AutoCommand自动执行助手软件不以营利为目的的使用权。
+
+## 目录结构
+
+AC_ScreenShot 主程序截图子模块源代码(VB.net,基于.net framework 4.7.2框架)
+
+AutoCommand_Executer_Core 指令执行模块源代码(Python)
+
+AutoCommand_VocalModel_Core 语音录入模块源代码(语音转文本子模块使用了基于科大讯飞的Java语言Demo,文本分词使用了基于Python的JieBa分词库)
+
+AutoCommand_Bridge 桥接模块源代码(Python)
+
+AutoCommandGUI 主程序源代码(VB.net,基于.net framework 4.7.2框架)
+
+Pictures目录 用到的图片资源
