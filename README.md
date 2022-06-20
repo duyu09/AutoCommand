@@ -21,11 +21,11 @@ Copyright owner's authorization: The Organization Committee of China University 
 
 AC_ScreenShot 主程序截图子模块源代码(VB.net,基于.net framework 4.7.2框架)
 
-AutoCommand_Executer_Core 指令执行模块源代码(Python)
+AutoCommand_Executer_Core 指令执行模块源代码(Python, 主要使用了PyAutoGUI库)
 
 AutoCommand_VocalModel_Core 语音录入模块源代码(语音转文本子模块使用了基于科大讯飞的Java语言Demo,文本分词使用了基于Python的JieBa分词库)
 
-AutoCommand_Bridge 桥接模块源代码(Python)
+AutoCommand_Bridge 桥接模块源代码(Python，读写Excel表文件)
 
 AutoCommandGUI 主程序源代码(VB.net,基于.net framework 4.7.2框架)
 
