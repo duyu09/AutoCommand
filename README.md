@@ -1,5 +1,5 @@
 # AutoCommand Software 
-## AutoCommand自动执行助手软件著作权声明
+## Copyright Statement of AutoCommand Software System
 
 An automated software that allows people to perform specific operations on their computers easily and quickly.
 
@@ -17,7 +17,7 @@ Copyright owner's authorization: The Organization Committee of China University 
 
 著作权所有人授权：2022年中国大学生计算机设计大赛组委会对AutoCommand自动执行助手软件不以营利为目的的使用权。
 
-## 目录结构
+## Structure of The Directory
 
 AC_ScreenShot 主程序截图子模块源代码(VB.net,基于.net framework 4.7.2框架)
 
@@ -31,6 +31,7 @@ AutoCommandGUI 主程序源代码(VB.net,基于.net framework 4.7.2框架)
 
 Pictures目录 用到的图片资源
 
+## Updated on July 3rd, 2022
 
 2022年07月03日 更新本声明的内容：
 
