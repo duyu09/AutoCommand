@@ -36,3 +36,7 @@ Pictures目录 用到的图片资源
 2022年07月03日 更新本声明的内容：
 
 AutoCommand_VocalModel_Core(语音录入模块)使用了基于科大讯飞的离线流式语音听写AI能力的API接口，AutoCommand软件版权方于讯飞开放平台开通了离线流式语音听写一年的免费包，AutoCommand软件对其调用的限制是：每天不超过110500次调用，且有效期截至2023年04月21日。
+
+
+## Statistics of Visiting Numbers
+<div>Number of Total Visits: &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=Duyu09_AutoCommand" /></div> 
