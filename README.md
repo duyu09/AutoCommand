@@ -11,7 +11,7 @@ This project has participated in the 2022 National Computer Design Competition f
 
 Copyright owner's authorization: The Organization Committee of China University Student Computer Design Competition has the right to use AutoCommand software for non-profit purposes.
 
-著作权所有人授权：2022年中国大学生计算机设计大赛组委会对AutoCommand自动执行助手软件不以营利为目的的使用权。
+著作权所有人授权：2022年中国大学生计算机设计大赛组织委员会对AutoCommand自动执行助手软件不以营利为用途的使用权。
 
 An automated software that allows people to perform specific operations on their computers easily and quickly.
 
