@@ -1,31 +1,27 @@
-# AutoCommand Software 
+<p align="center">
+  <br>
+  <img src="https://github.com/duyu09/AutoCommand/assets/92843163/a41af798-c256-4752-8eb5-aa55009eba38" style="width:25%;">
+</p>
+<br>
 
-## Introduction of AutoCommand Software System
+# AutoCommand Software System
 
-- **软件全称**：自动执行助手
-- **软件简称**：AutoCommand
+### 软件系统简介
+
+- **软件中文全称**：自动执行助手
+- **软件英文全称**：AutoCommand Software System
+- **软件简称**: AutoCommand 或 AC
 - **软件开工时间**：2022年03月
 - **软件竣工时间**：2022年07月
+- **软件功能介绍**: AutoCommand自动执行助手是一款可以让人们能方便而又快捷地执行电脑上特定的操作的自动化软件。AC系统实现了简单的无代码编程的概念。
 
-## Copyright Statement of AutoCommand Software System
+### 著作权声明
 
-- Copyright (c) 2022 Qilu University of Technology, School of Computer Science and Technology, AutoCommand Software Development Team (DU yu, CHEN Yongquan, LIU Jia).
+- Copyright &copy; 2022~2023 Qilu University of Technology, School of Computer Science and Technology, AutoCommand Software Development Team (DU yu, CHEN Yongquan, LIU Jia).
 
-  - 齐鲁工业大学 计算机科学与技术学院 AutoCommand自动执行助手软件开发小组（杜宇，陈勇全，刘佳） 保留所有权利。
+  - 齐鲁工业大学 计算机科学与技术学部 AutoCommand自动执行助手软件开发小组（杜宇，陈勇全，刘佳） 保留所有权利。
 
-- This project has participated in the 2022 National Computer Design Competition for College Students. Without the written authorization of the copyright owner, part or all of the software shall not be modified and published.
-
-  - 该项目参加了2022年全国大学生计算机设计大赛。未经著作权所有人书面授权，不得修改并发布本软件的部分或全部。
-
-- Copyright owner's authorization: The Organization Committee of China University Student Computer Design Competition has the right to use AutoCommand software for non-profit purposes.
-
-  - 著作权所有人授权：2022年(第15届)中国大学生计算机设计大赛组织委员会对AutoCommand自动执行助手软件不以营利为用途的使用权。
-
-- An automated software that allows people to perform specific operations on their computers easily and quickly.
-
-  - AutoCommand自动执行助手是一款可以让人们能方便而又快捷地执行电脑上特定的操作的自动化软件。
-
-## Structure of The Directory
+### 工程目录结构
 
 - AC_ScreenShot 主程序截图子模块源代码(VB.net,基于.net framework 4.7.2框架)
 
@@ -39,17 +35,14 @@
 
 - Pictures目录 用到的图片资源
 
-## Updated on July 3rd, 2022
+### 软件更新日志
 
 - 2022年07月03日 更新本声明的内容：
 
   - AutoCommand_VocalModel_Core(语音录入模块)使用了基于科大讯飞的离线流式语音听写AI能力的API接口，AutoCommand软件版权方于讯飞开放平台开通了离线流式语音听写一年的免费包，AutoCommand软件对其调用的限制是：每天不超过110500次调用，且有效期截至2023年04月21日。
 
-<br>
+### 访客统计
 
-**LOGO of AutoCommand Software System**
+<div><b>Number of Total Visits (All of Duyu09's GitHub Projects): </b><br><img src="https://profile-counter.glitch.me/duyu09/count.svg" /></div> 
 
-<img src="https://github.com/duyu09/AutoCommand/assets/92843163/5f1e98ae-7dde-4396-adb8-d2abc5a126ed" style="width:20%;">
-
-## Statistics of Visiting Numbers
-<div>Number of Total Visits: &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=Duyu09_AutoCommand" /></div> 
+<div><b>Number of Total Visits (AutoCommand): </b><br><img src="https://profile-counter.glitch.me/duyu09-AutoCommand/count.svg" /></div> 
